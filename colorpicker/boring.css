@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+}
+
+body {
+	background-color: white;
+	font: 125%/1.5 "Raleway","Lucida Sans Unicode", Tahoma, Verdana, sans-serif;
+	color: #000033;
+}
+
+p {
+	margin: 0;
+	text-align: center;
+}
+
+/* Styles for header */
+
+h1, h2, h3 {
+	text-align: center;
+}
+
+h1 {
+	font-size: 200%;
+}
+
+h2 {
+	font-size: 130%;
+	font-style: italic;
+	line-height: 1;
+}
+
+/* Styles for main content area */
+main {
+	background-color: white;
+	width: 40%;
+	margin: auto;
+	padding: 1em;
+	border: 2px solid #ccc;
+}
+
+h3 {
+	font-size: 130%;
+	line-height: 1.75;
+}
+
+header {
+	margin-bottom: 2em;
+}
+
+#color_selected {
+	margin-top: 2em;
+	border-top: 1px ridge gray;
+}
