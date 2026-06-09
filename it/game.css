@@ -1,0 +1,66 @@
+ @charset "utf-8";
+
+ /* Using A Door Hues color scheme from Design Seeds */
+ /* https://www.design-seeds.com/wander/wanderlust/a-door-hues-65/ */
+ 
+ body {
+	background-color: #D9D7A8;
+	color: #41513E;
+	font-family: 'IBM Plex Mono', monospace;
+ }
+ 
+ h1 {
+	 font-family: 'Bungee', cursive;
+	 color: #6A805F;
+	 text-align: center;
+	 margin-bottom: 0;
+ }
+ h2 {
+	 color: #6A805F;
+	 text-align: center;
+	 font-size: 1em; line-height; 1em; margin-top: 0;
+ }
+ 
+main {
+	width: 50%;
+	margin: auto;
+	border: 3em groove #C6A788;
+	padding: 1% 5%;
+	background-color: #F4F1D0;
+} 
+#hidden 
+{
+	width: 58%;
+	margin: auto;
+}
+
+#hidden div
+{
+	visibility: hidden;
+}
+#hidden div.show {
+	visibility: visible;
+}
+.right {
+	text-align: right;
+}
+form {
+	width: 100%;
+}
+#action {
+	min-height: 5em;
+}
+#output {
+	height: 9em;
+}
+
+a {
+	line-height: 2em;
+}
+a:link, a:visited {
+	color: #41513E;
+	font-weight: bold;
+}
+a:hover, a:active {
+	background-color: #AFB98F;
+}
