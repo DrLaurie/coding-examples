@@ -1,0 +1,37 @@
+body {
+	color: white;
+	font-family: "PT Sans",Verdana, Arial, sans-serif;
+}
+
+h1, h2 {
+	font-family: "Cinzel Decorative", cursive;
+	color: white;
+}
+
+h1 {
+	padding: 20px 0 0 30px;
+	font-size: 270%;
+}
+h2 {
+	padding: 0 0 0 30px;
+}
+
+main {
+	background-image: url(images/moon.svg);
+	background-color: navy;
+	background-size: 100%;
+	width: 70%;	
+	min-height: 500px;
+}
+label {
+	width: 10em;
+	display: inline-block;
+	text-align: right;
+}
+#display {
+	height: 5em;
+	margin-left: 2em;
+}
+small {
+	color: #333333;
+}
