@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,700');
+
+body {
+  color: #272936;
+  background-color: #E5DED3;
+  font-family: 'Crimson Text', Georgia, serif;
+}
+
+main 
+{
+  margin: auto;
+  padding: 10px;
+  background-image:url("images/animal-art-artsy-1840756.jpg");
+  width: 1260px;
+  height: 831px;
+  background-repeat: no-repeat;
+  border-style: outset;
+  border-width: 5px;
+  border-color: gray;
+}
+
+h1 {
+  font-family: 'Anton', Impact, sans-serif;
+  font-size: 3.5em;
+}
+h2 {
+  font-family: 'Anton', Impact, sans-serif;
+  line-height: 3em;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+form {
+  width: 33.5%;
+
+}
+
+#button {
+  text-align: center;
+}
+#button input {
+  background-color: #EC7A8A;
+  font-family: 'Anton', Impact, sans-serif;
+}
+label {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+footer
+{
+  border-top-style: solid;
+  border-top-width: 1px;
+}
+a:link {
+  color: #394C59;
+}
+a:visited {
+  color: #EC9BAB;
+}
+a:hover {
+  background-color: #F7B6BC;
+}
+a:active {
+  background-color: #FCE5D6;
+}

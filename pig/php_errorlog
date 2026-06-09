@@ -1,0 +1,5 @@
+[01-Oct-2024 12:33:23 CST6CDT] PHP Deprecated:  strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/lauriealfaro.com/public_html/pig/index.php on line 14
+[18-Feb-2025 16:42:01 UTC] PHP Deprecated:  strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/lauriealfaro.com/public_html/pig/index.php on line 14
+[21-Aug-2025 15:02:38 UTC] PHP Deprecated:  strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/lauriealfaro.com/public_html/pig/index.php on line 14
+[14-Oct-2025 15:00:37 UTC] PHP Deprecated:  strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/lauriealfaro.com/public_html/pig/index.php on line 14
+[09-Jun-2026 22:12:59 UTC] PHP Deprecated:  strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/lauriealfaro.com/public_html/pig/index.php on line 14
